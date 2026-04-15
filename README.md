@@ -10,7 +10,7 @@ I'm a passionate **Cybersecurity Specialist**. I love tackling complex problems,
 
 ## Current Skills 🧠
 
-I am still very new, and do not have any official projects or Social Media account that I can share Everything from here on out is a placeholder for when I do get the ball rolling. Stay tuned!
+I am still very new, and do not have any official projects or Social Media account that I can share. Everything from here on out is a placeholder for when I do get the ball rolling. Stay tuned!
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
